@@ -1,10 +1,19 @@
 # pc-cnodejs
 
-> A Vue.js project
+> 使用vue-cli重构了cnodejs社区的部分页面（纯属练习）
 
 ## Build Setup
 
-## 访问地址：
+## 访问地址：http://vuejs-templates.github.io/webpack/
+
+## 运用方法
+
+> router
+> axios
+
+## 封装了3个组件
+
+> header.vue footer.vue backtop.vue page.vue
 
 ``` bash
 # install dependencies
