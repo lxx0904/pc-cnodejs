@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-## 访问地址：https://lanxinxin2.github.io/pc-cnodejs/demo/
+## 访问地址：https://lxx0904.github.io/pc-cnodejs/demo/
 
 ## 运用方法
 
